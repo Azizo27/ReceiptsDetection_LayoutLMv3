@@ -1,0 +1,11 @@
+ipykernel
+jupyter
+glob2
+Pillow
+matplotlib
+pandas
+transformers
+numpy
+datasets
+seqeval
+tqdm
